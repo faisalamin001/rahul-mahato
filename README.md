@@ -29,7 +29,7 @@ const rahul = {
         misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["MVC Architecture", "Component Driven Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Comptetive Programming using C++",
+
 };
 ```
 
