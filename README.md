@@ -4,9 +4,9 @@
 </em></p>
 
 
-[![Linkedin: anmol](https://img.shields.io/badge/-rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-mahato/)](https://www.linkedin.com/in/rahul-mahato/)
+[![Linkedin: rahul](https://img.shields.io/badge/-rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-mahato/)](https://www.linkedin.com/in/rahul-mahato/)
 ![GitHub followers](https://img.shields.io/github/followers/rahul-mahato?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=rahul-mahato.rahul-mahato)
+![Visitors: rahul-mahato](https://visitor-badge.glitch.me/badge?page_id=rahul-mahato.rahul-mahato)
 
 
 
@@ -40,21 +40,24 @@ const rahul = {
 
 
 
-<!--START_SECTION:waka-->
+## ⚡ Technologies
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
-**🐱 My Github Data** 
-
-> 🏆 2 Contributions in the Year 2021
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 23 Private Repositories  
- > 
-
-**I'm a Night 🦉** 
-
-<!--END_SECTION:waka-->
 
 <!--
 **rahul-mahato/rahul-mahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
