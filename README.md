@@ -24,7 +24,7 @@ const rahul = {
       stateManagement: ['Redux', 'Redux Saga', 'Thunk'],
     },
     backEnd: {
-      js: ['node', 'Express.js', 'Mongoose'],
+      js: ['nodeJs', 'Express.js', 'fastify' ,'Mongoose'],
     },
     databases: ['MongoDB', 'MySql'],
     misc: ['Firebase', 'Socket.IO'],
