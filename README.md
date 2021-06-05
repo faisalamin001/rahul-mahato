@@ -14,24 +14,29 @@
 
 ```javascript
 const rahul = {
-    code: ["Javascript", "Typescript", "C++", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["React-Native"],
-        frontEnd: {
-            js: ["React", "Vue"],
-            uiDesign: ["material-ui", "tailwind", "bootstrap"],
-            stateManagement: ["Redux", "Redux Saga", "Thunk"]
-        },
-        backEnd: {
-            js: ["node", "Express.js","Mongoose"],
-        },
-        databases: ["MongoDB", "MySql"],
-        misc: ["Firebase", "Socket.IO"]
+  code: ['Javascript', 'Typescript', 'C++', 'Java'],
+  askMeAbout: ['web dev', 'tech', 'app dev', 'photography'],
+  technologies: {
+    mobileApp: ['React-Native'],
+    frontEnd: {
+      js: ['React', 'Vue'],
+      uiDesign: ['material-ui', 'tailwind', 'bootstrap'],
+      stateManagement: ['Redux', 'Redux Saga', 'Thunk'],
     },
-    architecture: ["MVC Architecture", "Component Driven Architecture", "Progressive web applications", "Single page applications"],
-
+    backEnd: {
+      js: ['node', 'Express.js', 'Mongoose'],
+    },
+    databases: ['MongoDB', 'MySql'],
+    misc: ['Firebase', 'Socket.IO'],
+  },
+  architecture: [
+    'MVC Architecture',
+    'Component Driven Architecture',
+    'Progressive web applications',
+    'Single page applications',
+  ],
 };
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
