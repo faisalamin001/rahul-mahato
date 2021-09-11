@@ -14,10 +14,10 @@
 
 ```javascript
 const rahul = {
-  code: ['Javascript', 'Typescript', 'C++', 'Java'],
-  askMeAbout: ['web dev', 'tech', 'app dev', 'photography'],
+  code: ['Javascript', 'Typescript', 'C++'],
+  askMeAbout: ['Website Development', 'React', 'ReactNative', 'photography'],
   technologies: {
-    mobileApp: ['React-Native'],
+    mobileApps: ['React-Native'],
     frontEnd: {
       js: ['React', 'Vue'],
       uiDesign: ['material-ui', 'tailwind', 'bootstrap'],
@@ -63,18 +63,3 @@ const rahul = {
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
-
-<!--
-**rahul-mahato/rahul-mahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
