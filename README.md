@@ -19,7 +19,7 @@ const rahul = {
   technologies: {
     mobileApps: ['React-Native'],
     frontEnd: {
-      js: ['React', 'Vue'],
+      js: ['React'],
       uiDesign: ['material-ui', 'tailwind', 'bootstrap'],
       stateManagement: ['Redux', 'Redux Saga', 'Thunk'],
     },
