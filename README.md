@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Rahul Mahato! <img src="https://media.giphy.com/media/AOXNxxIJuBQdNTBblp/source.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/3qYvlcgnIka1ayPbqB/source.gif" width="230">
-<p><em>Software Engineer at <a href="https://geekyants.com/" target="_blank">Geekyants</a>
+<p><em>Software Engineer at <a href="https://encore.hornblower.com/" target="_blank">Hornblower Encore Studio</a>
 </em></p>
 
 
